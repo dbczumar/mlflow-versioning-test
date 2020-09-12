@@ -1,7 +1,12 @@
 version: 2
 updates:
+  # - package-ecosystem: "pip"
+  #   directory: "/dependencies"
+  #   schedule:
+  #     interval: "daily"
+  #   target-branch: "master"
   - package-ecosystem: "pip"
-    directory: "/dependencies"
+    directory: "/"
     schedule:
       interval: "daily"
     target-branch: "master"
