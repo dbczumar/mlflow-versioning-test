@@ -63,7 +63,7 @@ setup(
             "boto3>=1.7.12",
             "mleap>=0.16.0",
             "azure-storage-blob>=12.0",
-            "google-cloud-storage<=1.15.2",
+            "google-cloud-storage<1.31.1",
             "azureml-core>=1.2.0",
             'numpy<=1.18.1,!=1.19.0',
         ],
