@@ -1,1 +1,2 @@
 azure-storage-blob>=12.0,<=12.3.2
+tests/resources/mlflow-test-plugin/
