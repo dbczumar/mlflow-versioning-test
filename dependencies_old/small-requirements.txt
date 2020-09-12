@@ -1,5 +1,5 @@
 # Small test reqs
-azure-storage-blob==12.3.0
+azure-storage-blob==12.5.0
 google-cloud-storage==1.14.0
 botocore==1.12.84
 boto3==1.9.84
