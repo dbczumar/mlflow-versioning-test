@@ -24,7 +24,7 @@ torch==1.4.0
 torchvision==0.5.0
 xgboost>=0.82
 lightgbm==2.3.0
-typing==3.6.6
+typing==3.7.4.3
 pysftp==0.2.9
 keras==2.3.1
 attrdict==2.0.0
