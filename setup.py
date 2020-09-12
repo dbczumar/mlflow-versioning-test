@@ -46,7 +46,7 @@ setup(
         "python-dateutil",
         "protobuf>=3.6.0",
         "gitpython>=2.1.0",
-        "pyyaml",
+        "pyyaml<=5.1.2",
         "querystring_parser",
         "docker>=4.0.0",
         "entrypoints",
