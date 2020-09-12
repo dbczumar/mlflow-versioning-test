@@ -1,0 +1,16 @@
+h2o
+onnx
+onnxmltools
+onnxruntime
+mxnet
+pyarrow
+pyspark
+spacy
+tensorflow
+torch
+torchvision
+xgboost
+lightgbm
+keras
+azureml-sdk
+fastai
