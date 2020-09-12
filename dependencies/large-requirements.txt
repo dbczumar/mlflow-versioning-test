@@ -25,7 +25,7 @@ xgboost==0.82
 lightgbm==2.3.0
 typing==3.7.4.3
 pysftp==0.2.9
-keras==2.3.1
+keras==2.4.3
 attrdict==2.0.0
 azureml-sdk==1.2.0
 cloudpickle==0.8.0

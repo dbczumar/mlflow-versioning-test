@@ -1,7 +1,7 @@
 fastai==1.0.60
 pyspark==2.4.0
 onnx==1.4.1
-keras==2.3.1
+keras==2.4.3
 onnxruntime==0.3.0
 xgboost==0.82
 h2o==3.22.1.4
